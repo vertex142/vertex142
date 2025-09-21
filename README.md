@@ -39,13 +39,3 @@ Workflow:   Build → Test → Break → Debug → Run → Repeat
 	•	📧 vertex.printshop@gmail.com
 	•	🧍 Pronouns: He/Him
 	•	😂 Fun fact: Not “sus,” just a Limited Edition Legit Male™
-
-⸻
-
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer&animation=fadeIn&reversal=true" />
-</p>
-
----
