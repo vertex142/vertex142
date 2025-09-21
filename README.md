@@ -44,12 +44,8 @@ Workflow:   Build → Test → Break → Debug → Run → Repeat
 
 
 <!-- Footer Wave -->
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer&animation=fadeIn&reversal=true" />
 </p>
-```
 
-
-
+---
